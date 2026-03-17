@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "LifeMate",
-    "slug": "lifemate",
+    "slug": "careConnectApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/lifemate-icon.png",
