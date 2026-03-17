@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "LifeMate",
-    "slug": "careConnectApp",
+    "slug": "lifeMate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/lifemate-icon.png",
@@ -42,7 +42,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "31d3a320-8f26-47aa-a260-4bd1406afc98"
+        "projectId": "a61ed20b-44ef-4ec4-9f88-0f3d64dbc905"
       }
     },
     "owner": "iti_shree"
