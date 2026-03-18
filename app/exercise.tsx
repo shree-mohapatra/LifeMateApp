@@ -32,91 +32,91 @@ interface Exercise {
 // Assets (require all original files into assets/animations)
 // --------------------
 const AbdominalCruncheGif = require("../assets/animations/Abdominal_crunches.gif");
-const AbdominalCruncheImg = require("../assets/animations/ABDOMINAL_CRUNCHES.jpg");
+const AbdominalCruncheImg = require("../assets/images/ABDOMINAL_CRUNCHES.jpg");
 
 const armCircleGif = require("../assets/animations/arm_circles.gif");
-const armCircleImg = require("../assets/animations/arm_circles.png");
+const armCircleImg = require("../assets/images/arm_circles.png");
 
-const BackStretchGif = require("../assets/animations/BACK_STRETCHF.jpg");
-const BackStretchImg = require("../assets/animations/BACK_STRETCHF.jpg");
+const BackStretchGif = require("../assets/images/BACK_STRETCHF.jpg");
+const BackStretchImg = require("../assets/images/BACK_STRETCHF.jpg");
 
 const backwardLungeGif = require("../assets/animations/BACKWARD_LUNGEm.gif");
-const backwardLungeImg = require("../assets/animations/BACKWARD_LUNGEm.jpg");
+const backwardLungeImg = require("../assets/images/BACKWARD_LUNGEm.jpg");
 
 const bentlegTwistGif = require("../assets/animations/BENT_LEG_TWIST.gif");
-const bentlegTwistImg = require("../assets/animations/BENT_LEG_TWIST.gif");
+const bentlegTwistImg = require("../assets/images/BENT_LEG_TWIST.jpg");
 
 const ButtocksGif = require("../assets/animations/BUTTOCKSw.gif");
-const ButtocksImg = require("../assets/animations/buttocksW.jpg");
+const ButtocksImg = require("../assets/images/buttocksW.jpg");
 
 const crossArmCruncheGif = require("../assets/animations/CROSS_ARM_CRUNCHES.gif");
-const crossArmCruncheImg = require("../assets/animations/CROSS_ARM_CRUNCHES.jpg");
+const crossArmCruncheImg = require("../assets/images/CROSS_ARM_CRUNCHES.jpg");
 
 const dumbbellGif = require("../assets/animations/Dumbbell.gif");
-const dumbbelImg = require("../assets/animations/DUMBBELL.jpg");
+const dumbbelImg = require("../assets/images/DUMBBELL.jpg");
 
 const girlDoingYogaGif = require("../assets/animations/Girl_doing_yoga.gif");
-const girlDoingYogaImg = require("../assets/animations/girl_doing_yoga.png");
+const girlDoingYogaImg = require("../assets/images/girl_doing_yoga.png");
 
 const legRaises2Gif = require("../assets/animations/LEG_RISING2M.gif");
-const legRaises2Img = require("../assets/animations/LEG_RISING2M.png");
+const legRaises2Img = require("../assets/images/LEG_RISING2M.png");
 
-const skippingGif = require("../assets/animations/skippingW.png");
-const skippingImg = require("../assets/animations/skippingW.png");
+const skippingGif = require("../assets/images/skippingW.png");
+const skippingImg = require("../assets/images/skippingW.png");
 
 const plankJacksGif = require("../assets/animations/PLANK_JACKS.gif");
-const plankJacksImg = require("../assets/animations/PLANK_JACKS.jpg");
+const plankJacksImg = require("../assets/images/PLANK_JACKS.jpg");
 
 const plieSquatsGif = require("../assets/animations/PLIE_SQUATS.gif");
-const plieSquatsImg = require("../assets/animations/PLIE_SQUATS.jpg");
+const plieSquatsImg = require("../assets/images/PLIE_SQUATS.jpg");
 
 const RCWLRGif = require("../assets/animations/REVERSE_CRUNCHES_WITH_LEG_RAISED.gif");
-const RCWLRImg = require("../assets/animations/REVERSE_CRUNCHES_WITH_LEG_RAISED.jpg");
+const RCWLRImg = require("../assets/images/REVERSE_CRUNCHES_WITH_LEG_RAISED.jpg");
 
 const sideLungesGif = require("../assets/animations/SIDE_LUNGES.gif");
-const sideLungesImg = require("../assets/animations/SIDE_LUNGES.jpg");
+const sideLungesImg = require("../assets/images/SIDE_LUNGES.jpg");
 
-const SkippingGif = require("../assets/animations/skippingW.png");
-const SkippingImg = require("../assets/animations/skippingW.png");
+const SkippingGif = require("../assets/images/skippingW.png");
+const SkippingImg = require("../assets/images/skippingW.png");
 
 const SASGif = require("../assets/animations/STANDING_ADDUCTOR_STRETCH.gif");
-const SASImg = require("../assets/animations/STANDING_ADDUCTOR_STRETCH.jpg");
+const SASImg = require("../assets/images/STANDING_ADDUCTOR_STRETCH.jpg");
 
 const stepUpOnChairGif = require("../assets/animations/stepup_onto_chair.gif");
-const stepUpOnChairImg = require("../assets/animations/STEP-UP_ONTO_CHAIR(1).jpg");
+const stepUpOnChairImg = require("../assets/images/STEP-UP_ONTO_CHAIR(1).jpg");
 
 const tricepsDipsGif = require("../assets/animations/TRICEPS_DIPS.gif");
-const tricepsDipsImg = require("../assets/animations/TRICEPS_DIPS.jpg");
+const tricepsDipsImg = require("../assets/images/TRICEPS_DIPS.jpg");
 
 const warmUpGif = require("../assets/animations/warmupM.gif");
-const warmUpImg = require("../assets/animations/warmupM.png");
+const warmUpImg = require("../assets/images/warmupM.png");
 
 const yoga2Gif = require("../assets/animations/yoga2.gif");
-const yoga2Img = require("../assets/animations/yoga2.jpg");
+const yoga2Img = require("../assets/images/yoga2.jpg");
 
 const jumpingJackGif = require("../assets/animations/jumpingjack.gif");
-const jumpingJackImg = require("../assets/animations/jumpingjack.jpeg");
+const jumpingJackImg = require("../assets/images/jumpingjack.jpeg");
 
 const bicycleCrunchesGif = require("../assets/animations/BICYCLE_CRUNCHES.gif");
-const bicycleCrunchesImg = require("../assets/animations/BICYCLE_CRUNCHES.jpg");
+const bicycleCrunchesImg = require("../assets/images/BICYCLE_CRUNCHES.jpg");
 
 const pushUpsGif = require("../assets/animations/PUSH-UPS.gif");
-const pushUpsImg = require("../assets/animations/PUSH-UPS.jpg");
+const pushUpsImg = require("../assets/images/PUSH-UPS.jpg");
 
 const squatsGif = require("../assets/animations/SQUATSm.gif");
-const squatsImg = require("../assets/animations/SQUATSM.jpg");
+const squatsImg = require("../assets/images/SQUATSM.jpg");
 
-const wallSitImg = require("../assets/animations/Wwall_sit.jpg");
-const wallSitGif = require("../assets/animations/Wwall_sit.jpg");
+const wallSitImg = require("../assets/images/Wwall_sit.jpg");
+const wallSitGif = require("../assets/images/Wwall_sit.jpg");
 
 const legRaisesGif = require("../assets/animations/LEG_RAISES.gif");
-const legRaisesImg = require("../assets/animations/LEG_RAISES.jpg");
+const legRaisesImg = require("../assets/images/LEG_RAISES.jpg");
 
 const buttBridgeGif = require("../assets/animations/BUTT_BRIDGEw.gif");
-const buttBridgeImg = require("../assets/animations/BUTT_BRIDGE.jpg");
+const buttBridgeImg = require("../assets/images/BUTT_BRIDGE.jpg");
 
 const yogaGif = require("../assets/animations/yoga.gif");
-const yogaImg = require("../assets/animations/yoga.jpg");
+const yogaImg = require("../assets/images/yoga.jpg");
 
 // --------------------
 // Exercises array (converted, using require() assets above)
